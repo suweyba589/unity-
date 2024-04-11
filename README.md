@@ -3,18 +3,23 @@ Video : https://www.youtube.com/watch?v=TYtxnahj0p8 \
 
 Setup \
 Inside the Scenes folder (Assets > Scenes > coursework) press the coursework.unity file. \
-<img width="164" alt="Screenshot 2024-04-12 at 00 20 03" src="https://github.com/suweyba589/unity-/assets/74510746/9333e72d-848e-445c-9bba-61dbe3190145">
+<img width="164" alt="Screenshot 2024-04-12 at 00 20 03" src="https://github.com/suweyba589/unity-/assets/74510746/9333e72d-848e-445c-9bba-61dbe3190145">  
 
-.
-├── Material                 
-├── NPBehave                
-├── Prefab              
-├── Scenes             
-├── Scripts    ├── GenerateMap.cs 
-               ├── survivorPlayer.cs 
-               ├── Weapon.cs 
-               ├── zombiePlayer.cs 
-└── README.md
+
+Assets \
+├── Material \
+├── NPBehave \
+├── Prefab \
+├── Scenes \
+├── Scripts \
+│   ├── GenerateMap.cs \
+│   ├── survivorPlayer.cs \
+│   ├── Weapon.cs \
+│   └── zombiePlayer.cs \
+└── README.md 
+
+
+
 
 Level Generator Implementation:
 
