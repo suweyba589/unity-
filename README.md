@@ -1,5 +1,5 @@
-Video : https://www.youtube.com/watch?v=TYtxnahj0p8 \
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TYtxnahj0p8/0.jpg)](https://www.youtube.com/watch?v=TYtxnahj0p8)
+Video : https://www.youtube.com/watch?v=C-O4H3y6LcE \
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C-O4H3y6LcE/0.jpg)](https://youtu.be/C-O4H3y6LcE)
 
 Setup \
 Inside the Scenes folder (Assets > Scenes > coursework) press the coursework.unity file. \
